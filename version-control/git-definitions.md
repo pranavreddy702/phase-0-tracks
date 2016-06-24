@@ -13,3 +13,5 @@ A commit records changes made to the repository. A good message is one that desc
 
 * What is a merge conflict?
 Is when two branches have changed the same part of the same file.
+
+I AM ADDING TEXT OVER HERE!!
