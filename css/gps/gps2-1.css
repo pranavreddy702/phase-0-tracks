@@ -1,0 +1,25 @@
+header {
+  background-color: red;
+  padding: 50px;
+}
+.column-1 {
+  background-color: orange;
+  display:inline-block;
+  width:40%;
+  margin-left: auto;
+  vertical-align: top;
+  color: white;
+}
+.column-2 {
+  background-color: yellow;
+  display:inline-block;
+  width: 40%;
+  top: 50%;
+  margin-right: auto;
+  vertical-align: top;
+  color: navy;
+  }
+footer {
+  background-color:green;
+  color:pink;
+}
