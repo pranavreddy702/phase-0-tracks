@@ -1,0 +1,20 @@
+-Wait until the elevator door has opened
+-Move into the elevator and face the door
+-Select which floor number you must go to
+-Press the number
+-Wait till you see the number on the tiny screen above the door
+-Wait till the door opens up
+-Exit the elevator onto your floor
+
+
+Going To Work
+
+-Exit the house and head to the bus stop.
+-Wait until the bus has reached
+-Pay the driver the fair for the ride
+-Exit bus at the train station
+-Enter train station
+-Swipe my pass to get in
+-Take the train to world trade center
+-Exit the last stop
+-Walk half a mile and enter the building
