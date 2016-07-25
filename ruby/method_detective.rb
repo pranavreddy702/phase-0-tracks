@@ -25,15 +25,16 @@
 "The case of the disappearing last letter"[0...-1]
  => "The case of the disappearing last lette"
 
-#{}"The mystery of the missing first letter"
- #=> "he mystery of the missing first letter"
+"The mystery of the missing first letter".gsub(/[T]/, "")
+ => "he mystery of the missing first letter"
 
-# "Elementary,    my   dear        Watson!".center()
-# => "Elementary, my dear Watson!"
+"Elementary,    my   dear        Watson!".squeeze
+=> "Elementary, my dear Watson!"
 
-# "z".<???>
-# => 122 
-# (What is the significance of the number 122 in relation to the character z?)
+"z".ord
+=> 122 
+#(What is the significance of the number 122 in relation to the character z?)
+#It is the charecter number on the charectar list in ruby
 
 "How many times does the letter 'a' appear in this string?".count "a"
 => 4
