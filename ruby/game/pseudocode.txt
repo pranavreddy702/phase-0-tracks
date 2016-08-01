@@ -1,0 +1,59 @@
+-Word Game Class
+
+  -Initialize class method 
+
+ 
+
+
+
+      -Set Initialize instance variables 
+
+        -Array thats made up of the word's characters
+
+        -Guess counter
+
+        -Amount of guesses allowed
+
+        -Empty array to store the guessed letters 
+
+        -A new word array that stores the current word with the guessed letters. 
+
+
+   -Set getter methods  
+
+   -Def method for when a guess is entered
+
+    -input a letter 
+
+    
+
+      -Store letter entered into the guessed letter array. 
+
+ -updated guessed letters array.  
+
+   -Def a method to increase the guess count by 1 only if new letter is entered.
+
+    -input a letter 
+
+   
+
+      -If letter entered is not in the array
+
+        -Increase guess count by 1
+
+    -guess count instance variable.     
+
+   -Def method that evaluates the letter entered 
+
+   -input a letter 
+
+ 
+
+        If the letter entered is in the word
+
+          -Find all indexes of that letter in the word and store that in new index array 
+
+          -Iterate each index array.
+          - replace the letter guessed
+
+        
